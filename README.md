@@ -13,6 +13,7 @@ wait 5-10 minutes so the program can learn how does the arabic letters look like
 
 the more EPOCHS you gave it the better the output result is
 
+PS: Make Sure to write the letter in black with white background so the AI can detect it
 
 #Credit 
 
